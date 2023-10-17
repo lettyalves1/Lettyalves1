@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**lettyalves1/lettyalves1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div><!--Linguagens-->
+<a href="https://github.com/lettyalves1"> 
+  
+# Hi, I´m Letícia Alves
+- <i>Futura Desenvolvedora de Front-End</i>
+##
+<div class= "skills" style="display: inline_block"><br> <!-- Habilidades-->
+  <img align="center" alt="Javascript" height="" width="32" src="https://img.icons8.com/fluency/48/javascript.png">
+  <!-- -->
+</div>
